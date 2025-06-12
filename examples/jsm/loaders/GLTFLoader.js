@@ -1,3 +1,4 @@
+console.log("Loading GTLFLoadesr.js");
 import {
 	AnimationClip,
 	Bone,
