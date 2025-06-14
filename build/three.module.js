@@ -1,3 +1,4 @@
+console.log("Hello, world!");
 /**
  * @license
  * Copyright 2010-2025 Three.js Authors
